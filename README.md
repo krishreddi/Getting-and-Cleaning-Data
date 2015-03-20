@@ -3,7 +3,7 @@ Course Project
 Getting and Cleaning Data - Coursera
 Repository Contents
 
-#README.md
+#  README.md
 #run_analysis.R
 #tidy UCR HAR summary.txt
 #CodeBook.md
