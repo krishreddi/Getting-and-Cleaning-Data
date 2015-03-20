@@ -3,10 +3,10 @@ Course Project
 Getting and Cleaning Data - Coursera
 Repository Contents
 
-README.md
-run_analysis.R
-tidy UCR HAR summary.txt
-CodeBook.md
+#README.md
+#run_analysis.R
+#tidy UCR HAR summary.txt
+#CodeBook.md
 
 Introduction
 
@@ -14,7 +14,7 @@ This repository contains my submission for the course project of the "Data Scien
 
 The purpose of the project was to obtain, clean and summarise a real-life dataset. The input data set used was from the accelerometers and gyroscopes of a Samsung Galaxy S smartphone. This data was produced as part of the Human Activity Recognition Using Smartphones project.
 
-The actual data file downloaded is here: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+#The actual data file downloaded is here: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 The brief for the project was to: 1. Merge the training and the test sets to create one data set. 2. Extract only the measurements on the mean and standard deviation for each measurement. 3. Use descriptive activity names to name the activities in the data set. 4. Appropriately label the data set with descriptive variable names. 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
