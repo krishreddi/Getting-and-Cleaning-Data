@@ -49,14 +49,14 @@ To run the script, copy to your R working directory then call:
     source("run_analysis.R")
 
 
-tidy UCR HAR summary.txt
-------------------------
+####### tidy UCR HAR summary.txt
+
 run_analysis.R writes the tidy summary data as a space delimited .txt file.
 This file can be loaded into R by copying it to your working directory then calling:
 
 	data <- read.table("tidy UCR HAR summary.txt", header=TRUE)
 
-CodeBook.md
------------
+#######CodeBook.md
+
 CodeBook.md describes the contents of the ``tidy UCR HAR summary.txt`` data file.
 The source data for this code book was taken from the code book for the Samsung Galaxy data sets.
