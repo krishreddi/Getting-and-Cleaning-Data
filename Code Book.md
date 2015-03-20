@@ -7,13 +7,13 @@ The subjects of this study were 30 volunteers aged 19-48. While wearing the smar
 
 ######Variables
 activity One of the 6 activities listed below:
-*laying
-*sitting
-*standing
-*walking
-*walking upstairs
-*walking downstairs
-*subjectId A unique integer identifier for each of the subjects in the study, from 1-30.
+* laying
+* sitting
+* standing
+* walking
+* walking upstairs
+* walking downstairs
+* subjectId A unique integer identifier for each of the subjects in the study, from 1-30.
 
 variable The variable (or feature) being measured. All names start with "mean" since we have computed the mean for all variables. Variables are either measured over time or frequency.
 
