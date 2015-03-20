@@ -2,10 +2,10 @@
 Course Project
 
 ####Repository Contents
-*README.md
-*run_analysis.R
-*tidy UCR HAR summary.txt
-*CodeBook.md
+* README.md
+* run_analysis.R
+* tidy UCR HAR summary.txt
+* CodeBook.md
 
 ####Introduction
 
