@@ -1,9 +1,6 @@
 #Getting-and-Cleaning-Data
 Course Project
 
-Getting and Cleaning Data - Coursera
-====================================
-
 Repository Contents
 -------------------
 1. README.md
